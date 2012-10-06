@@ -12,3 +12,4 @@ To use:
 If you think you could improve the script feel free to fork!
 
 Licensed under the GPLv3.
+http://www.gnu.org/licenses/gpl-3.0.html
