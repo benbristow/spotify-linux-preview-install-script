@@ -7,9 +7,9 @@ To use:
 
 - Copy and paste in the following:
 
-> wget https://raw.github.com/benbristow/spotify-linux-preview-install-script/master/spotifyinstall.sh
-> chmod +x spotifyinstall.sh
-> ./spotifyinstall.sh
+> - wget https://raw.github.com/benbristow/spotify-linux-preview-install-script/master/spotifyinstall.sh
+> - chmod +x spotifyinstall.sh
+> - ./spotifyinstall.sh
 
 - Once the script gives you the all clear, find Spotify by searching for it in the Unity dash or finding 
 - it in your applications menu.
