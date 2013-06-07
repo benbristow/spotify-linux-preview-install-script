@@ -11,7 +11,7 @@ To use:
 > - chmod +x spotifyinstall.sh
 > - ./spotifyinstall.sh
 
-Once the script gives you the all clear, find Spotify by searching for it in the Unity dash or finding 
+Once the script gives you the all clear feel free to delete it, find Spotify by searching for it in the Unity dash or finding 
 it in your applications menu.
 
 If you think you could improve the script feel free to fork or request a pull.
