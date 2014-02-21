@@ -5,9 +5,9 @@ Spotify Linux Preview Install Script for Ubuntu 12.04+
 To use:
 - Open your terminal
 
-- Copy and paste in the following (line by line):
+- Run the following command
 
-> - wget https://raw.github.com/benbristow/spotify-linux-preview-install-script/master/spotifyinstall.sh; chmod +x spotifyinstall.sh;./spotifyinstall.sh
+> wget https://raw.github.com/benbristow/spotify-linux-preview-install-script/master/spotifyinstall.sh; chmod +x spotifyinstall.sh;./spotifyinstall.sh
 
 Once the script gives you the all clear feel free to delete it, find Spotify by searching for it in the Unity dash or finding 
 it in your applications menu.
