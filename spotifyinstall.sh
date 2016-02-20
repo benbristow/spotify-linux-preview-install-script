@@ -18,7 +18,7 @@ echo "## Spotify (Automatically added by SLIS)" >> /etc/apt/sources.list
 echo "deb http://repository.spotify.com stable non-free" >> /etc/apt/sources.list
 clear
 echo "> Adding Key"
-apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 94558F59
+apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys D2C19886
 clear
 echo "> Updating Package List"
 apt-get update
